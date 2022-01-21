@@ -4,7 +4,7 @@
 
     //Create Constants to Store Non Repeating Values
     define('SITEURL','https://food-order-projectt.herokuapp.com/' );
-    define('LOCALHOST', 'localhost');
+    define('LOCALHOST', 'heroku.com');
     define('DB_USERNAME','root');
     define('DB_PASSWORD', '');
     define('DB_NAME', 'food-order');
