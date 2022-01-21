@@ -3,7 +3,7 @@
     session_start();
 
     //Create Constants to Store Non Repeating Values
-    define('SITEURL','https://food-order-projectt.herokuapp/' );
+    define('SITEURL','https://food-order-projectt.herokuapp.com/' );
     define('LOCALHOST', 'localhost');
     define('DB_USERNAME','root');
     define('DB_PASSWORD', '');
