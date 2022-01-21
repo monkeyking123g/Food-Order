@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 food-order/
+web: vendor/bin/heroku-php-apache2/
