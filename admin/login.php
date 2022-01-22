@@ -64,7 +64,7 @@
         {
             //User available and login sucesss
             $_SESSION['login'] = "<div class='success'>Login Successful.</div>";
-            $_SESSION['user'] = $username;  // to check whether the user is logged in or not and logout will unsert it  
+            $_SESSION['user'] = $username;// to check whether the user is logged in or not and logout will unsert it  
             header('location:'.SITEURL.'admin/');
         }
         else
