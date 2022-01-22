@@ -1,0 +1,6 @@
+{
+    "name": "Start on Heroku: PHP",
+    "description": "A barebones PHP app that makes use of the Silex web framework",
+    "repository": " git pull origin https://github.com/monkeyking123g/Foof-Order.git",
+    "addons": []
+  }
