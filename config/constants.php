@@ -3,7 +3,7 @@
     session_start();
 
     //Create Constants to Store Non Repeating Values
-    define('SITEURL','https://food-order-php.000webhostapp.com/' );
+    define('SITEURL','https://delightful-alpaca-dc3830.netlify.app/' );
     define('LOCALHOST', 'localhost');
     define('DB_USERNAME','id18331501_dimaipatii');
     define('DB_PASSWORD', 'Ppm.YaGwg@D8Myx');
